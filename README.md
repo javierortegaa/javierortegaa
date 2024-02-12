@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Ortega</h1>
-<h3 align="center">A passionate frontend developer from Austin, TX</h3>
+<h3 align="center">A passionate developer from Austin, TX</h3>
 
 - Hi, I'm [javierortegaa.tech](javierortegaa.tech)
 
