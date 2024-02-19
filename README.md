@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Ortega</h1>
 <h3 align="center">A passionate developer from Austin, TX</h3>
 
-- 📫 How to reach me **javis.ortega@me.com**
+- 📚 Computer Scienc at Texas - A&M - Commerce RELLIS Campus
 
-- ⚡ Fun fact **I love food**
+- 📫 How to reach me **javis.ortega@me.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
