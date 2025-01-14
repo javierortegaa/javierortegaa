@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Ortega</h1>
 <h3 align="center">A passionate developer from Austin, TX</h3>
  
- 📚 Computer Science at Texas - A&M - Commerce RELLIS Campus
+ 📚 Computer Science at East Texas - A&M - RELLIS Campus
 
 - 📫 How to reach me **javis.ortega@me.com**
 
