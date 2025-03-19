@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello •‿•
 
 🎓 CS at East Texas A&M - RELLIS Campus 
 
