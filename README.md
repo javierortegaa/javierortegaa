@@ -2,20 +2,20 @@
  ________________________    - javier@ortega ------------------------------------
 |.----------------------.|   Role: ................................. Data Engineer
 ||                      ||   Company: .................................. Webconnex
-||       ______         ||   Education: .... B.S. Computer Science, East Texas A&M
+|        ______         ||   Education: .... B.S. Computer Science, East Texas A&M
 ||     .;;;;;;;;.       ||   Marathon PR: ................................... 2:51
 ||    /;;;;;;;;;;;\     ||
-||   /;/    -;;;;; . .||   - Skills -------------------------------------------
-||   |;|__  __  ;;;|   ||   Languages: ............ Python, SQL, JavaScript, Java
-||.-.|;| e/e  |;;;|   ||   Data: ............... dbt, Redshift, Pandas, Fivetran
+||   /;/`    `-;;;;; . .||   - Skills -------------------------------------------
+||   |;|__  __  \;;;|   ||   Languages: ............ Python, SQL, JavaScript, Java
+||.-.|;| e`/e`  |;;;|   ||   Data: ............... dbt, Redshift, Pandas, Fivetran
 ||   |;|  |     |;;;|'--||   Cloud: .................. AWS: S3, Redshift, ECS, DMS
 ||   |;|  '-    |;;;|   ||   Tools: ................. Git, Jira, Tableau, SQLFluff
 ||   |;;\ --'  /|;;;|   ||
-||   |;;;;;---'|;;;|   ||   - Experience ---------------------------------------
+||   |;;;;;---'\|;;;|   ||   - Experience ---------------------------------------
 ||   |;;;;|     |;;;|   ||   Data Engineer: ................ Webconnex, 2025 - Now
 ||   |;;.-'     |;;;|   ||   Data Engineer Intern: ............... Webconnex, 2025
 ||'--|/`        |;;;|--.||   IT Technician: ........ Texas A&M System, 2024 - 2025
-||;;;;    .     ;;;;.;;||
+||;;;;    .     ;;;;.\;;||
 ||;;;;;-.;_    /.-;;;;;;||   - Hobbies ------------------------------------------
 ||;;;;;;;;;;;;;;;;;;;;;;||   Sports: ............................. Running, Soccer
 ||jgs;;;;;;;;;;;;;;;;;;;||   Outdoors: ......................... Hiking, Traveling
